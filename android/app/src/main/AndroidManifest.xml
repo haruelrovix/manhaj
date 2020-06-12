@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.manhaj">
+  package="com.haruelrovix.manhaj">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
