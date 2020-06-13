@@ -29,6 +29,10 @@ build/
 local.properties
 *.iml
 
+# Android/release
+#
+android/app/release/
+
 # node.js
 #
 node_modules/

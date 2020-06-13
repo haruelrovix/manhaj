@@ -1,4 +1,4 @@
-package com.manhaj;
+package com.haruelrovix.manhaj;
 
 import com.facebook.react.ReactActivity;
 
